@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'CodeWithVishakha',
   tagline: 'Come Fly The Friendly Frontend.',
-  url: 'https://github.com',
-  baseUrl: '/docu_web/',
+  url: 'keen-scone-16c2f2.netlify.app',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
