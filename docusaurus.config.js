@@ -8,17 +8,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'CodeWithVishakha',
   tagline: 'Come Fly The Friendly Frontend.',
-  url: 'fascinating-pudding-6ae6ab.netlify.app',
-  baseUrl: '/my_docusaurus_website/',
+  url: 'https://github.com',
+  baseUrl: '/docu_web/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Vishakha-Sawra', // Usually your GitHub org/user name.
-  projectName: 'my-docusaurus-website', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+  // organizationName: 'Vishakha-Sawra', // Usually your GitHub org/user name.
+  // projectName: 'docu_web', // Usually your repo name.
+  // deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
